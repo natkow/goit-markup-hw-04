@@ -169,7 +169,8 @@ img {
   color: #ffffff;
   width: 696px;
   margin: 0 auto;
-  margin-top: 102.67px;
+  display: flex;
+
   margin-bottom: 30px;
 }
 
